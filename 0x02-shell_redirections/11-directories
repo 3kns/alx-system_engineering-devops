@@ -1,2 +1,2 @@
-#!/bin/bash
-find . -type d | wc -l
+#i!/bin/bash
+find . -type d -print | sort | wc -l
